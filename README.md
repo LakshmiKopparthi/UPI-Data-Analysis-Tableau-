@@ -89,4 +89,4 @@ Shows average and total transaction amounts visually across all segments
 • Device Preferences: Mobile is the dominant device, indicating mobile-first strategies are essential.
 • Payment Preferences: Diverse use of UPI, QR, and Phone Numbers—systems must support all methods robustly.
 
-![Dasboard]()
+![Dasboard](https://github.com/LakshmiKopparthi/UPI-Data-Analysis-Tableau-/blob/main/UPI%20Transactions%20Dashboard.png)
