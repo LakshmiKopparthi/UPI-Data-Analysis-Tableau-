@@ -9,7 +9,7 @@ This project was developed using the following tools and technologies:
 
 • 📊 Tableau Desktop – Primary data visualization and analytics platform
 
-• 🧹 Excel (Power Query) – Source data preparation and grouping (age banding, currency normalization)
+• 🧹Tableau Prep Builder – Source data preparation and grouping (age banding, currency normalization)
 
 • 🌐 Mapbox Integration – Used for city-level geographic plotting
 
@@ -60,7 +60,8 @@ To create a unified visualization system that:
 
 📍 Bangalore: ₹4,875,336
 
-📍 Hyderabad, Mumbai, Chennai (also tracked)
+📍 Hyderabad, Mumbai, Chennai 
+
 
 • Bar Chart – Transaction Amount by Merchant & Payment Method
 
